@@ -140,8 +140,8 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/TZ3dcyC :scroll:
-         :hearts: الموقع الرسمي للبوت https://aboodealnaimat.wixsite.com/superbot: website here  :hearts: **`)
+         .setDescription(`**  Created By SMM
+        info :https://discord.gg/6ZRP389 **`)
    message.author.sendEmbed(embed)
    
    }
@@ -152,8 +152,8 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/TZ3dcyC :scroll:
-         :hearts: الموقع الرسمي للبوت https://aboodealnaimat.wixsite.com/superbot: website here  :hearts: **`)
+         .setDescription(`**  Created By SMM
+            info :https://discord.gg/6ZRP389 **`)
    message.author.sendEmbed(embed)
    
    }
@@ -164,8 +164,8 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/TZ3dcyC :scroll:
-         :hearts: الموقع الرسمي للبوت https://aboodealnaimat.wixsite.com/superbot: website here  :hearts: **`)
+         .setDescription(`**  Created By SMM
+         info :https://discord.gg/6ZRP389  **`)
    message.author.sendEmbed(embed)
    
    }
@@ -176,8 +176,8 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/TZ3dcyC :scroll:
-         :hearts: الموقع الرسمي للبوت https://aboodealnaimat.wixsite.com/superbot: website here  :hearts: **`)
+         .setDescription(`**  Created By SMM
+           info :https://discord.gg/6ZRP389 **`)
    message.author.sendEmbed(embed)
    
    }
@@ -188,8 +188,8 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/TZ3dcyC :scroll:
-         :hearts: الموقع الرسمي للبوت https://aboodealnaimat.wixsite.com/superbot: website here  :hearts: **`)
+         .setDescription(`**   Created By SMM
+           info :https://discord.gg/6ZRP389 **`)
    message.author.sendEmbed(embed)
    
    }
@@ -401,8 +401,8 @@ client.on('message', message => {
       if (message.content === "-help-a") {
        const embed = new Discord.RichEmbed() 
            .setColor("#FF00FF")
-           .setFooter('By *LEGEND_YT#4537  ')
-           .setDescription(`**__أتمنى يعجبكم البوت يا أغلى ناس:revolving_hearts: __**`)
+           .setFooter(' BY SMM  ')
+           .setDescription(`** ENJOY:revolving_hearts: __**`)
      message.author.sendEmbed(embed)
      
      }
@@ -413,8 +413,8 @@ client.on('message', message => {
       if (message.content === "-help-g") {
        const embed = new Discord.RichEmbed() 
            .setColor("#FF00FF")
-           .setFooter('By *LEGEND_YT#4537  ')
-           .setDescription(`**__أتمنى يعجبكم البوت يا أغلى ناس:revolving_hearts: __**`)
+           .setFooter('BY SMM  ')
+           .setDescription(`** ENJOY:revolving_hearts: __**`)
      message.author.sendEmbed(embed)
      
      }
@@ -425,8 +425,8 @@ client.on('message', message => {
       if (message.content === "-help-m") {
        const embed = new Discord.RichEmbed() 
            .setColor("#FF00FF")
-           .setFooter('By *LEGEND_YT#4537  ')
-           .setDescription(`**__أتمنى يعجبكم البوت يا أغلى ناس:revolving_hearts: __**`)
+           .setFooter('BY SMM   ')
+           .setDescription(`** ENJOY:revolving_hearts: __**`)
      message.author.sendEmbed(embed)
      
      }
@@ -437,8 +437,8 @@ client.on('message', message => {
       if (message.content === "-help-p") {
        const embed = new Discord.RichEmbed() 
            .setColor("#FF00FF")
-           .setFooter('By *LEGEND_YT#4537  ')
-           .setDescription(`**__أتمنى يعجبكم البوت يا أغلى ناس:revolving_hearts: __**`)
+           .setFooter('BY SMM  ')
+           .setDescription(`** ENJOY:revolving_hearts: __**`)
      message.author.sendEmbed(embed)
      
      }
@@ -3104,7 +3104,7 @@ var prefix = "-";
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
-/*جميع الحقوق محفوظهه لريبل ولسيرفر كودز
+/*
 رآح يرسل للأونر تحذير + م يتطلب ملفات سويته لكم داتا مؤقت
 سو روم بأسم log 
 أو غيره من الكود عشان يرسل هنا التحذير
