@@ -1131,7 +1131,7 @@ client.on('message', message => {
             .addField('``My ID``' , `[ ${client.user.id} ]` , true)
 			      .addField('``My Prefix``' , `[ - ]` , true)
 			      .addField('``My Language``' , `[ Java Script ]` , true)
-			      .setFooter('By | LEGEND_YT#4537 ')
+			      .setFooter('BY SMM ')
     })
 }
 });
@@ -2363,7 +2363,7 @@ let embed = new Discord.RichEmbed()
      .setAuthor(message.author.username, message.author.avatarURL)
      .setDescription(':mailbox_with_mail: تم ارسال الرسالة الى صاحب البوت بنجاح')
      .setThumbnail(message.author.avatarURL)
-     .setFooter("By : LEGEND_YT#4537 ")
+     .setFooter("by SMM ")
                                                 
 
 message.channel.send(embed);
@@ -2841,7 +2841,7 @@ message.channel.stopTyping()
      let embed = new Discord.RichEmbed()
   .setAuthor(message.author.username)
   .setColor("#9B59B6")
-  .addField(" ** :gear: Server Support :gear: **" , "  **https://discord.gg/TZ3dcyC**")
+  .addField(" ** :gear: Server Support :gear: **" , "  **https://discord.gg/yEnbB8X**")
      
      
   message.channel.sendEmbed(embed);
